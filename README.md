@@ -1,6 +1,6 @@
 # az_grident_button
 
-A new Flutter package project.
+渐变色按钮，发布Pub练习
 
 ## Getting Started
 

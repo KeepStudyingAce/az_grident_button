@@ -1,6 +1,6 @@
 name: az_grident_button
-description: 渐变颜色按钮.
-version: 0.0.1
+description: A grident button that support Android and iOS.
+version: 0.0.2
 homepage: https://github.com/KeepStudyingAce/az_grident_button.git
 
 environment:
